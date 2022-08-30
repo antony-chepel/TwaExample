@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225599502623",
+    "project_id": "dota-426da",
+    "storage_bucket": "dota-426da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225599502623:android:5bde45a4d0f18eb68d982a",
+        "android_client_info": {
+          "package_name": "com.d2ggdrop.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225599502623-ug75os4jfbrv2d50j282as0a7lkdtev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48UrgktiQPCmnnmuYYJAfJTl0G3s_jGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225599502623-ug75os4jfbrv2d50j282as0a7lkdtev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
